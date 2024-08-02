@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yoyosarefun123
-- 👀 I’m interested in app development and machine learning 
-- 🌱 I’m currently learning node.js and react
-- 💞️ I’m looking to collaborate on nothing rn, but maybe some cool apps later down the line
+Hi, I'm Yoav Saporta - an 18 year old computer science student in my final year at the Open University of Israel.
+
+I'm interested in security research, low level development and deep learning. 
 
 <!---
 yoyosarefun123/yoyosarefun123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
